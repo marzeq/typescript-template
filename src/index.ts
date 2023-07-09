@@ -1,1 +1,3 @@
-console.log("Hello, TypeScript!")
+const main = async () => {}
+
+main().catch(console.error)
